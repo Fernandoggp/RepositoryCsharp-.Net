@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Fiap.Api.AspNet-controller-cliente",
+    "\\Fiap.Api.AspNet-controller-cliente\\Fiap.Api.AspNet-controller-cliente",
+    "\\Fiap.Api.AspNet-controller-cliente\\Fiap.Api.AspNet-controller-cliente\\Fiap.Api.AspNet",
+    "\\Fiap.Api.AspNet-controller-cliente\\Fiap.Api.AspNet-controller-cliente\\Fiap.Api.AspNet\\Controllers",
+    "\\Fiap.Api.AspNet-controller-cliente\\Fiap.Api.AspNet-controller-cliente\\Fiap.Api.AspNet\\Models",
+    "\\Fiap.Api.AspNet-controller-cliente\\Fiap.Api.AspNet-controller-cliente\\Fiap.Api.AspNet\\Repository"
+  ],
+  "SelectedNode": "\\Fiap.Api.AspNet-controller-cliente\\Fiap.Api.AspNet-controller-cliente\\Fiap.Api.AspNet.sln",
+  "PreviewInSolutionExplorer": false
+}
